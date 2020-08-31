@@ -13,6 +13,8 @@ https://noritanyutan.github.io/shooting-game/
 
 # 制作背景(意図)
 私は子供の頃ゲームが好きであり、まだまだ初心者の状態だったので、まずはプログラミングの勉強と思ってjavascriptの勉強も兼ねて、jsを用いたゲームを作ろうと思ったから
+
+# DEMO
 https://gyazo.com/f04ce94304b52b5db5094f57203ed81e
 
 # 工夫したポイント
