@@ -15,7 +15,7 @@ https://noritanyutan.github.io/shooting-game/
 私は子供の頃ゲームが好きであり、まだまだ初心者の状態だったので、まずはプログラミングの勉強と思ってjavascriptの勉強も兼ねて、jsを用いたゲームを作ろうと思ったから
 
 # DEMO
-https://gyazo.com/f04ce94304b52b5db5094f57203ed81e
+![](https://gyazo.com/f04ce94304b52b5db5094f57203ed81e.gif)
 
 # 工夫したポイント
 7日間という限られた時間のなかで、素人同然の私がどうすればゲームを作れるかを考え、まずはエラー起きてもいいやくらいの気持ちで手を動かしたこと
