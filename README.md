@@ -6,9 +6,8 @@
 # 概要
 スペースキーで弾を発射でき、矢印キーでそれに応じた動きを自機がします
 敵が弾を撃ってきて、当たると赤くなるエフェクトが発生します。敵に自機が当たった場合も同様です。
-![](https://i.gyazo.com/a600b5c2b912fe8fc4ede73a2f92e772.png)
+![](https://i.gyazo.com/f3463eb89ffee0cde1eb8ea5e0e3f185.png)
 
-https://gyazo.com/a600b5c2b912fe8fc4ede73a2f92e772
 # 本番環境(デプロイ先 テストアカウント＆ID)
 https://noritanyutan.github.io/shooting-game/
 
