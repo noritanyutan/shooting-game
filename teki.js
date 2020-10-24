@@ -83,3 +83,5 @@ class Teki extends CharaBase
 		super.draw();
 	}
 }
+
+	if draw()
