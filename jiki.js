@@ -126,3 +126,5 @@ class Jiki
 		drawSprite(9 + (this.anime>>2), this.x, this.y+(24<<8) );
 	}
 }
+
+	draw()
